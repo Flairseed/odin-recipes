@@ -1,3 +1,7 @@
+html {
+  background-color: rgb(77, 81, 102);
+}
+
 .title {
   background-color: cadetblue;
   border-radius: 10px;
