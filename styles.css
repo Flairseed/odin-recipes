@@ -3,3 +3,12 @@
   border-radius: 10px;
   text-align: center;
 }
+
+a {
+  text-decoration: none;
+  font-size: larger;
+  color: black;
+  background-color:rgb(130, 159, 187);
+  border-radius: 5px;
+  padding: 5px;
+}
