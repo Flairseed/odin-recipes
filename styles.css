@@ -25,3 +25,9 @@ a {
 .recipes li {
   margin: 50px;
 }
+
+img {
+  display: block;
+  width: 40%;
+  margin: auto;
+}
