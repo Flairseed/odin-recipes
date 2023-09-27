@@ -12,3 +12,12 @@ a {
   border-radius: 5px;
   padding: 5px;
 }
+
+.recipes {
+  list-style: none;
+  text-align: center;
+}
+
+.recipes li {
+  margin: 50px;
+}
