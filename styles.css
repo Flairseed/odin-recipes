@@ -36,3 +36,29 @@ hr {
   border: none;
   border-top: 5px dashed darkgrey;
 }
+
+.description {
+  background-color: rgb(218, 196, 139);
+  padding: 30px;
+  border-radius: 30px;
+}
+
+.description h2 {
+  text-align: center;
+  margin: 0;
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: coral;
+  border-end-end-radius: 100px;
+  border-start-start-radius: 100px;
+}
+
+.description p {
+  font-size: large;
+  text-align: center;
+  margin: 0;
+  background-color: rgb(255, 155, 118);
+  padding: 10px 50px;
+  border-end-start-radius: 100px;
+  border-start-end-radius: 100px;
+}
