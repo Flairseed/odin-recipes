@@ -37,7 +37,7 @@ hr {
   border-top: 5px dashed darkgrey;
 }
 
-.description {
+div {
   background-color: rgb(218, 196, 139);
   padding: 30px;
   border-radius: 30px;
@@ -63,12 +63,6 @@ hr {
   border-end-start-radius: 100px;
   border-start-end-radius: 100px;
   border-style: solid solid dashed dashed;
-}
-
-.ingredients {
-  background-color: rgb(218, 196, 139);
-  padding: 30px;
-  border-radius: 20px;
 }
 
 h2,
