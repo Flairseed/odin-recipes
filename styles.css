@@ -51,6 +51,7 @@ hr {
   background-color: coral;
   border-end-end-radius: 100px;
   border-start-start-radius: 100px;
+  border-style: dashed solid solid dashed;
 }
 
 .description p {
@@ -61,4 +62,33 @@ hr {
   padding: 10px 50px;
   border-end-start-radius: 100px;
   border-start-end-radius: 100px;
+  border-style: solid solid dashed dashed;
+}
+
+.ingredients {
+  background-color: rgb(218, 196, 139);
+  padding: 30px;
+  border-radius: 20px;
+}
+
+.ingredients h2,
+.ingredients h3 {
+  margin: 0;
+  background-color: coral;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 20px;
+  border-style: dashed solid solid dashed;
+  border-width: 6px;
+}
+
+.ingredients ul {
+  background-color: rgb(255, 155, 118);
+  padding: 20px 20px;
+  border-radius: 30px;
+  border: 3px dashed black;
+}
+
+.ingredients ul li {
+  margin: 10px;
 }
