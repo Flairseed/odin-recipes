@@ -76,7 +76,8 @@ h3 {
   border-width: 6px;
 }
 
-.ingredients ul {
+.ingredients ul,
+.steps ol {
   background-color: rgb(255, 155, 118);
   padding: 20px 20px;
   border-radius: 30px;
@@ -84,5 +85,13 @@ h3 {
 }
 
 .ingredients ul li {
+  font-size: 20px;
   margin: 10px;
+}
+
+.steps ol li {
+  font-size: 20px;
+  padding: 10px;
+  margin: 20px;
+  border-style: none none dashed none;
 }
